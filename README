@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4882
+
+Destroy all buffers that are not open in any tabs or windows.
+
+Usage
+
+    :Wipeout
